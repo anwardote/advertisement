@@ -1,0 +1,16 @@
+[07-Dec-2016 18:10:31 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'PHPUnit suppresses exceptions thrown outside of test case function' in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7
+[10-Dec-2016 21:29:17 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'PHPUnit suppresses exceptions thrown outside of test case function' in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7
+[11-Dec-2016 05:13:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'PHPUnit suppresses exceptions thrown outside of test case function' in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7
+[12-Dec-2016 05:44:33 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'PHPUnit suppresses exceptions thrown outside of test case function' in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7

@@ -1,0 +1,10 @@
+[05-Dec-2016 22:16:25 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/ConsoleTest.php on line 16
+[05-Dec-2016 22:16:27 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/RuntimeTest.php on line 16
+[08-Dec-2016 04:55:27 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/ConsoleTest.php on line 16
+[08-Dec-2016 05:50:57 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/RuntimeTest.php on line 16
+[08-Dec-2016 12:37:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/ConsoleTest.php on line 16
+[08-Dec-2016 13:04:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/RuntimeTest.php on line 16
+[08-Dec-2016 21:11:13 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/ConsoleTest.php on line 16
+[08-Dec-2016 21:52:21 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/RuntimeTest.php on line 16
+[09-Dec-2016 17:16:58 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/ConsoleTest.php on line 16
+[09-Dec-2016 17:55:32 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/environment/tests/RuntimeTest.php on line 16

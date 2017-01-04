@@ -1,0 +1,4 @@
+[06-Dec-2016 05:35:34 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Exceptions/Handler.php on line 6
+[09-Dec-2016 03:40:00 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Exceptions/Handler.php on line 6
+[09-Dec-2016 11:12:29 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Exceptions/Handler.php on line 6
+[10-Dec-2016 04:04:38 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Exceptions/Handler.php on line 6

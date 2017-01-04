@@ -1,0 +1,5 @@
+[05-Dec-2016 22:05:22 America/Chicago] PHP Fatal error:  Interface 'Psr\Cache\CacheException' not found in /home/mse24/public_html/projects/firmware/vendor/psr/cache/src/InvalidArgumentException.php on line 12
+[08-Dec-2016 09:47:13 America/Chicago] PHP Fatal error:  Interface 'Psr\Cache\CacheException' not found in /home/mse24/public_html/projects/firmware/vendor/psr/cache/src/InvalidArgumentException.php on line 12
+[08-Dec-2016 16:17:17 America/Chicago] PHP Fatal error:  Interface 'Psr\Cache\CacheException' not found in /home/mse24/public_html/projects/firmware/vendor/psr/cache/src/InvalidArgumentException.php on line 12
+[09-Dec-2016 00:32:20 America/Chicago] PHP Fatal error:  Interface 'Psr\Cache\CacheException' not found in /home/mse24/public_html/projects/firmware/vendor/psr/cache/src/InvalidArgumentException.php on line 12
+[09-Dec-2016 19:44:05 America/Chicago] PHP Fatal error:  Interface 'Psr\Cache\CacheException' not found in /home/mse24/public_html/projects/firmware/vendor/psr/cache/src/InvalidArgumentException.php on line 12

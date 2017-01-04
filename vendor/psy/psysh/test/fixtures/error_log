@@ -1,0 +1,5 @@
+[06-Dec-2016 11:08:40 America/Chicago] PHP Fatal error:  Call to a member function setRuntimeDir() on null in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/fixtures/config.php on line 12
+[08-Dec-2016 23:43:36 America/Chicago] PHP Fatal error:  Call to a member function setRuntimeDir() on null in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/fixtures/config.php on line 12
+[09-Dec-2016 06:28:46 America/Chicago] PHP Fatal error:  Call to a member function setRuntimeDir() on null in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/fixtures/config.php on line 12
+[09-Dec-2016 14:15:25 America/Chicago] PHP Fatal error:  Call to a member function setRuntimeDir() on null in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/fixtures/config.php on line 12
+[10-Dec-2016 11:28:06 America/Chicago] PHP Fatal error:  Call to a member function setRuntimeDir() on null in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/fixtures/config.php on line 12

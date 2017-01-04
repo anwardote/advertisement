@@ -1,0 +1,5 @@
+[05-Dec-2016 21:58:12 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/File/UploadedFile.php on line 26
+[08-Dec-2016 05:46:49 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/File/UploadedFile.php on line 26
+[08-Dec-2016 13:03:03 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/File/UploadedFile.php on line 26
+[08-Dec-2016 21:51:08 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/File/UploadedFile.php on line 26
+[09-Dec-2016 17:53:50 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/File/UploadedFile.php on line 26

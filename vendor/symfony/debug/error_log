@@ -1,0 +1,5 @@
+[05-Dec-2016 12:53:01 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/debug/BufferingLogger.php on line 22
+[07-Dec-2016 14:28:14 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/debug/BufferingLogger.php on line 22
+[07-Dec-2016 21:27:59 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/debug/BufferingLogger.php on line 22
+[08-Dec-2016 04:04:31 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/debug/BufferingLogger.php on line 22
+[08-Dec-2016 20:46:39 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/debug/BufferingLogger.php on line 22

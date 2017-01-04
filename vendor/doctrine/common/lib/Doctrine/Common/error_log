@@ -1,0 +1,4 @@
+[09-Dec-2016 11:39:02 America/Chicago] PHP Fatal error:  Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/common/lib/Doctrine/Common/Lexer.php on line 36
+[09-Dec-2016 21:02:43 America/Chicago] PHP Fatal error:  Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/common/lib/Doctrine/Common/Lexer.php on line 36
+[10-Dec-2016 05:05:09 America/Chicago] PHP Fatal error:  Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/common/lib/Doctrine/Common/Lexer.php on line 36
+[10-Dec-2016 18:06:08 America/Chicago] PHP Fatal error:  Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/common/lib/Doctrine/Common/Lexer.php on line 36

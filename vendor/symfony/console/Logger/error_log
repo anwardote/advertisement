@@ -1,0 +1,5 @@
+[05-Dec-2016 21:51:10 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Logger/ConsoleLogger.php on line 28
+[08-Dec-2016 07:53:22 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Logger/ConsoleLogger.php on line 28
+[08-Dec-2016 15:43:20 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Logger/ConsoleLogger.php on line 28
+[08-Dec-2016 22:40:31 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Logger/ConsoleLogger.php on line 28
+[09-Dec-2016 18:46:30 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Logger/ConsoleLogger.php on line 28

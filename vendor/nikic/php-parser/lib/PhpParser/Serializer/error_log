@@ -1,0 +1,5 @@
+[07-Dec-2016 01:40:47 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Serializer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Serializer/XML.php on line 11
+[09-Dec-2016 21:07:15 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Serializer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Serializer/XML.php on line 11
+[10-Dec-2016 05:09:03 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Serializer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Serializer/XML.php on line 11
+[10-Dec-2016 13:48:29 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Serializer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Serializer/XML.php on line 11
+[11-Dec-2016 10:18:31 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Serializer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Serializer/XML.php on line 11

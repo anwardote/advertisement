@@ -1,0 +1,4 @@
+[07-Dec-2016 01:43:24 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/mse24/public_html/projects/firmware/vendor/phpspec/prophecy/spec/Prophecy/Util/StringUtilSpec.php on line 8
+[09-Dec-2016 12:48:09 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/mse24/public_html/projects/firmware/vendor/phpspec/prophecy/spec/Prophecy/Util/StringUtilSpec.php on line 8
+[09-Dec-2016 22:30:56 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/mse24/public_html/projects/firmware/vendor/phpspec/prophecy/spec/Prophecy/Util/StringUtilSpec.php on line 8
+[10-Dec-2016 18:34:57 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home/mse24/public_html/projects/firmware/vendor/phpspec/prophecy/spec/Prophecy/Util/StringUtilSpec.php on line 8

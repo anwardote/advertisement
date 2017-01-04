@@ -1,0 +1,5 @@
+[06-Dec-2016 12:59:01 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 20
+[09-Dec-2016 11:32:50 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 20
+[09-Dec-2016 20:57:20 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 20
+[09-Dec-2016 23:05:44 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 20
+[10-Dec-2016 18:03:09 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 20

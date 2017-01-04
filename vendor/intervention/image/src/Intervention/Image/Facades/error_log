@@ -1,0 +1,4 @@
+[07-Dec-2016 05:53:55 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/mse24/public_html/projects/firmware/vendor/intervention/image/src/Intervention/Image/Facades/Image.php on line 8
+[10-Dec-2016 16:30:30 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/mse24/public_html/projects/firmware/vendor/intervention/image/src/Intervention/Image/Facades/Image.php on line 8
+[11-Dec-2016 01:05:51 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/mse24/public_html/projects/firmware/vendor/intervention/image/src/Intervention/Image/Facades/Image.php on line 8
+[11-Dec-2016 21:18:59 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/mse24/public_html/projects/firmware/vendor/intervention/image/src/Intervention/Image/Facades/Image.php on line 8

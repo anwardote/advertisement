@@ -1,0 +1,4 @@
+[07-Dec-2016 07:16:28 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\DBALException' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryException.php on line 28
+[10-Dec-2016 22:06:13 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\DBALException' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryException.php on line 28
+[11-Dec-2016 05:24:38 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\DBALException' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryException.php on line 28
+[12-Dec-2016 05:54:52 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\DBALException' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Query/QueryException.php on line 28

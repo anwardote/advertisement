@@ -1,0 +1,2 @@
+[05-Dec-2016 21:46:14 America/Chicago] PHP Fatal error:  Class 'Session' not found in /home/mse24/public_html/projects/firmware/resources/views/admin/contacts/create.blade.php on line 14
+[07-Dec-2016 19:05:09 America/Chicago] PHP Fatal error:  Class 'Session' not found in /home/mse24/public_html/projects/firmware/resources/views/admin/contacts/create.blade.php on line 14

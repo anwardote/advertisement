@@ -1,0 +1,4 @@
+[06-Dec-2016 05:38:37 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/database/seeds/DatabaseSeeder.php on line 13
+[09-Dec-2016 07:46:44 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/database/seeds/DatabaseSeeder.php on line 13
+[09-Dec-2016 15:51:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/database/seeds/DatabaseSeeder.php on line 13
+[10-Dec-2016 13:19:31 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/database/seeds/DatabaseSeeder.php on line 13

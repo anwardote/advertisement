@@ -1,0 +1,5 @@
+[06-Dec-2016 12:57:32 America/Chicago] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 21
+[10-Dec-2016 15:42:09 America/Chicago] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 21
+[11-Dec-2016 00:34:14 America/Chicago] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 21
+[11-Dec-2016 08:30:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 21
+[12-Dec-2016 04:03:27 America/Chicago] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 21

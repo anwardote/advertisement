@@ -1,0 +1,4 @@
+[07-Dec-2016 18:10:15 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/581/Issue581Test.php on line 3
+[10-Dec-2016 22:20:19 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/581/Issue581Test.php on line 3
+[11-Dec-2016 05:30:38 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/581/Issue581Test.php on line 3
+[12-Dec-2016 06:01:15 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/tests/Regression/GitHub/581/Issue581Test.php on line 3

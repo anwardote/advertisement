@@ -1,0 +1,6 @@
+[07-Dec-2016 01:41:25 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/Unserializer/XMLTest.php on line 9
+[09-Dec-2016 11:43:41 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/Unserializer/XMLTest.php on line 9
+[09-Dec-2016 21:10:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/Unserializer/XMLTest.php on line 9
+[09-Dec-2016 23:07:10 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/Unserializer/XMLTest.php on line 9
+[10-Dec-2016 05:12:03 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/Unserializer/XMLTest.php on line 9
+[10-Dec-2016 18:09:27 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/Unserializer/XMLTest.php on line 9

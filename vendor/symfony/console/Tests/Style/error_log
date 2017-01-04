@@ -1,0 +1,4 @@
+[06-Dec-2016 05:29:49 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Tests/Style/SymfonyStyleTest.php on line 22
+[09-Dec-2016 05:06:26 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Tests/Style/SymfonyStyleTest.php on line 22
+[09-Dec-2016 15:03:39 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Tests/Style/SymfonyStyleTest.php on line 22
+[10-Dec-2016 12:30:39 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/console/Tests/Style/SymfonyStyleTest.php on line 22

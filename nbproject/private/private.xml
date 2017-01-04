@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/config/acl_messages.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/app/Http/Models/Device.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/device/new.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/admin/layouts/partials/top-menu.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/driver/new.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/firmware/new.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/public/css/modify.css</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/database/migrations/2016_11_09_194700_create_devices_table.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/admin/layouts/partials/logo.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/firmware/edit.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/admin/layouts/topbar.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/layouts/navbar.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/device/edit.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/routes/web.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/config/acl_menu.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/driver/edit.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/app/Http/Models/DriverName.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/driver-name/edit.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/Tool/edit.blade.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/database/migrations/2016_11_12_073312_create_driver_names_table.php</file>
+            <file>file:/D:/Server/XAMPP/htdocs/firmwares/resources/views/vendor/laravel-authentication-acl/admin/driver-name/new.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

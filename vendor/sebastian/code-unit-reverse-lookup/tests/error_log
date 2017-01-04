@@ -1,0 +1,4 @@
+[05-Dec-2016 22:07:07 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/code-unit-reverse-lookup/tests/WizardTest.php on line 17
+[08-Dec-2016 10:42:46 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/code-unit-reverse-lookup/tests/WizardTest.php on line 17
+[08-Dec-2016 23:16:29 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/code-unit-reverse-lookup/tests/WizardTest.php on line 17
+[09-Dec-2016 20:12:14 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/code-unit-reverse-lookup/tests/WizardTest.php on line 17

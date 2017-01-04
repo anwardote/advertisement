@@ -1,0 +1,2 @@
+[05-Dec-2016 21:46:24 America/Chicago] PHP Fatal error:  Class 'Request' not found in /home/mse24/public_html/projects/firmware/resources/views/admin/layouts/base.blade.php on line 99
+[07-Dec-2016 19:02:15 America/Chicago] PHP Fatal error:  Class 'Request' not found in /home/mse24/public_html/projects/firmware/resources/views/admin/layouts/base.blade.php on line 99

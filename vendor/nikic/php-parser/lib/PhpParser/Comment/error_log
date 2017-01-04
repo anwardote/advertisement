@@ -1,0 +1,5 @@
+[06-Dec-2016 23:14:41 America/Chicago] PHP Fatal error:  Class 'PhpParser\Comment' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 6
+[10-Dec-2016 08:54:19 America/Chicago] PHP Fatal error:  Class 'PhpParser\Comment' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 6
+[10-Dec-2016 16:58:58 America/Chicago] PHP Fatal error:  Class 'PhpParser\Comment' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 6
+[10-Dec-2016 23:56:52 America/Chicago] PHP Fatal error:  Class 'PhpParser\Comment' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 6
+[11-Dec-2016 11:22:59 America/Chicago] PHP Fatal error:  Class 'PhpParser\Comment' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 6

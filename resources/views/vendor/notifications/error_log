@@ -1,0 +1,2 @@
+[05-Dec-2016 21:47:20 America/Chicago] PHP Fatal error:  Call to undefined function config() in /home/mse24/public_html/projects/firmware/resources/views/vendor/notifications/email-plain.blade.php on line 22
+[08-Dec-2016 09:59:41 America/Chicago] PHP Fatal error:  Call to undefined function config() in /home/mse24/public_html/projects/firmware/resources/views/vendor/notifications/email-plain.blade.php on line 22

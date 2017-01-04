@@ -1,0 +1,5 @@
+[07-Dec-2016 17:13:54 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractDB2Driver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOIbm/Driver.php on line 36
+[11-Dec-2016 16:56:38 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractDB2Driver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOIbm/Driver.php on line 36
+[12-Dec-2016 00:43:35 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractDB2Driver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOIbm/Driver.php on line 36
+[12-Dec-2016 03:04:07 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractDB2Driver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOIbm/Driver.php on line 36
+[12-Dec-2016 21:12:17 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractDB2Driver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOIbm/Driver.php on line 36

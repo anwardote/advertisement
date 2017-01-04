@@ -1,0 +1,2 @@
+[08-Dec-2016 13:40:24 America/Chicago] PHP Fatal error:  Class 'Session' not found in /home/mse24/public_html/projects/firmware/resources/views/vendor/laravel-authentication-acl/admin/permission/edit.blade.php on line 17
+[08-Dec-2016 13:57:33 America/Chicago] PHP Fatal error:  Class 'Session' not found in /home/mse24/public_html/projects/firmware/resources/views/vendor/laravel-authentication-acl/admin/permission/list.blade.php on line 12

@@ -1,0 +1,2 @@
+[07-Dec-2016 18:04:42 America/Chicago] PHP Fatal error:  Call to undefined function config() in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Notifications/resources/views/email-plain.blade.php on line 22
+[11-Dec-2016 09:17:50 America/Chicago] PHP Fatal error:  Call to undefined function config() in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Notifications/resources/views/email-plain.blade.php on line 22

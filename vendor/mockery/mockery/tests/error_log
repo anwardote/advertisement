@@ -1,0 +1,20 @@
+[05-Dec-2016 21:58:09 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests' in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php on line 39
+[08-Dec-2016 09:04:42 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests' in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php on line 39
+[08-Dec-2016 16:07:27 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests' in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php on line 39
+[09-Dec-2016 00:18:38 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests' in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php on line 39
+[09-Dec-2016 19:33:47 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests' in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/tests/Bootstrap.php on line 39

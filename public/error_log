@@ -1,0 +1,8 @@
+[04-Dec-2016 06:11:39 UTC] PHP Fatal error:  Call to a member function user_profile() on null in /home/mse24/public_html/projects/firmware/storage/framework/views/89c8d6ccf481cdb0c2d73b03a234987b5fa6ae0e.php on line 347
+[04-Dec-2016 06:11:44 UTC] PHP Fatal error:  Call to a member function user_profile() on null in /home/mse24/public_html/projects/firmware/storage/framework/views/89c8d6ccf481cdb0c2d73b03a234987b5fa6ae0e.php on line 347
+[12-Dec-2016 01:16:27 UTC] PHP Fatal error:  Call to a member function get() on null in /home/mse24/public_html/projects/firmware/app/Http/Controllers/CMSViewController.php on line 149
+[12-Dec-2016 01:16:33 UTC] PHP Fatal error:  Call to a member function get() on null in /home/mse24/public_html/projects/firmware/app/Http/Controllers/CMSViewController.php on line 149
+[12-Dec-2016 01:17:22 UTC] PHP Fatal error:  Call to a member function get() on null in /home/mse24/public_html/projects/firmware/app/Http/Controllers/CMSViewController.php on line 149
+[12-Dec-2016 01:18:27 UTC] PHP Fatal error:  Call to a member function get() on null in /home/mse24/public_html/projects/firmware/app/Http/Controllers/CMSViewController.php on line 149
+[14-Dec-2016 20:23:01 UTC] PHP Fatal error:  Class 'PhpParser\Parser\Php7' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/ParserFactory.php on line 27
+[18-Dec-2016 10:50:48 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/mse24/public_html/projects/firmware/app/Http/Controllers/ToolsController.php on line 148

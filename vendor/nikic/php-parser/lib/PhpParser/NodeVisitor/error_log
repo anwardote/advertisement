@@ -1,0 +1,6 @@
+[06-Dec-2016 23:14:50 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php on line 14
+[10-Dec-2016 04:55:33 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php on line 14
+[10-Dec-2016 11:00:34 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php on line 14
+[10-Dec-2016 16:42:56 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php on line 14
+[10-Dec-2016 23:01:43 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php on line 14
+[11-Dec-2016 19:24:00 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php on line 14

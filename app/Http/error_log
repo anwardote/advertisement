@@ -1,0 +1,6 @@
+[05-Dec-2016 04:53:26 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Http/Kernel.php on line 8
+[06-Dec-2016 22:15:26 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Http/Kernel.php on line 8
+[07-Dec-2016 06:13:13 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Http/Kernel.php on line 8
+[07-Dec-2016 12:18:52 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Http/Kernel.php on line 8
+[07-Dec-2016 18:00:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Http/Kernel.php on line 8
+[12-Dec-2016 01:57:50 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Http/Kernel.php on line 8

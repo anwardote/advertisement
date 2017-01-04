@@ -1,0 +1,5 @@
+[05-Dec-2016 21:48:17 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mse24/public_html/projects/firmware/vendor/cviebrock/eloquent-sluggable/src/ServiceProvider.php on line 12
+[08-Dec-2016 06:34:10 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mse24/public_html/projects/firmware/vendor/cviebrock/eloquent-sluggable/src/ServiceProvider.php on line 12
+[08-Dec-2016 13:14:51 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mse24/public_html/projects/firmware/vendor/cviebrock/eloquent-sluggable/src/ServiceProvider.php on line 12
+[08-Dec-2016 22:09:16 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mse24/public_html/projects/firmware/vendor/cviebrock/eloquent-sluggable/src/ServiceProvider.php on line 12
+[09-Dec-2016 18:06:28 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mse24/public_html/projects/firmware/vendor/cviebrock/eloquent-sluggable/src/ServiceProvider.php on line 12

@@ -1,0 +1,4 @@
+[07-Dec-2016 04:54:22 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Common\Persistence\Proxy' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Proxy.php on line 33
+[10-Dec-2016 10:35:28 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Common\Persistence\Proxy' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Proxy.php on line 33
+[10-Dec-2016 17:45:45 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Common\Persistence\Proxy' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Proxy.php on line 33
+[11-Dec-2016 12:06:51 America/Chicago] PHP Fatal error:  Interface 'Doctrine\Common\Persistence\Proxy' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Proxy.php on line 33

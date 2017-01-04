@@ -1,0 +1,5 @@
+[05-Dec-2016 21:52:59 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\SerializerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 14
+[08-Dec-2016 07:33:00 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\SerializerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 14
+[08-Dec-2016 15:27:44 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\SerializerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 14
+[08-Dec-2016 22:31:53 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\SerializerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 14
+[09-Dec-2016 18:39:49 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\SerializerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 14

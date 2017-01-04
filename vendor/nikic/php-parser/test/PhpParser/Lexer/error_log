@@ -1,0 +1,5 @@
+[07-Dec-2016 01:41:11 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/LexerTest.php on line 8
+[10-Dec-2016 06:16:16 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/LexerTest.php on line 8
+[10-Dec-2016 14:25:51 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/LexerTest.php on line 8
+[10-Dec-2016 20:07:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/LexerTest.php on line 8
+[11-Dec-2016 10:58:29 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/test/PhpParser/LexerTest.php on line 8

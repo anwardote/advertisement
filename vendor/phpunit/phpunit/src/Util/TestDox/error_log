@@ -1,0 +1,4 @@
+[07-Dec-2016 01:48:46 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter.php on line 16
+[10-Dec-2016 00:33:06 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter.php on line 16
+[10-Dec-2016 08:40:31 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter.php on line 16
+[11-Dec-2016 03:34:35 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter.php on line 16

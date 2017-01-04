@@ -1,0 +1,5 @@
+[05-Dec-2016 21:48:12 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/tests/SlugifyTest.php on line 29
+[08-Dec-2016 05:47:02 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/tests/SlugifyTest.php on line 29
+[08-Dec-2016 13:03:13 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/tests/SlugifyTest.php on line 29
+[08-Dec-2016 21:51:19 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/tests/SlugifyTest.php on line 29
+[09-Dec-2016 17:54:07 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/tests/SlugifyTest.php on line 29

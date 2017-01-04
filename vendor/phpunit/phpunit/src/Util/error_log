@@ -1,0 +1,4 @@
+[06-Dec-2016 08:48:41 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Exception' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error.php on line 17
+[09-Dec-2016 04:09:25 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Exception' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error.php on line 17
+[09-Dec-2016 14:36:04 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Exception' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error.php on line 17
+[10-Dec-2016 12:01:21 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Exception' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error.php on line 17

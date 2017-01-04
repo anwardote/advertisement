@@ -1,0 +1,15 @@
+[05-Dec-2016 21:47:06 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/ckeditor4.php on line 13
+[05-Dec-2016 21:47:07 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/elfinder.blade.php on line 10
+[05-Dec-2016 21:47:09 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/elfinder.php on line 13
+[05-Dec-2016 21:47:10 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/filepicker.php on line 13
+[05-Dec-2016 21:47:12 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/standalonepopup.php on line 13
+[05-Dec-2016 21:47:13 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/tinymce.php on line 14
+[05-Dec-2016 21:47:15 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/tinymce4.php on line 13
+[07-Dec-2016 19:00:03 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/filepicker.php on line 13
+[07-Dec-2016 19:01:13 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/tinymce4.php on line 13
+[07-Dec-2016 19:01:41 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/standalonepopup.php on line 13
+[08-Dec-2016 09:31:09 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/elfinder.blade.php on line 10
+[08-Dec-2016 10:19:40 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/tinymce.php on line 14
+[08-Dec-2016 10:53:11 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/ckeditor4.php on line 13
+[08-Dec-2016 10:54:10 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/elfinder.php on line 13
+[21-Dec-2016 11:18:07 America/Chicago] PHP Fatal error:  Call to undefined function asset() in /home/mse24/public_html/projects/firmware/resources/views/vendor/elfinder/filepicker.php on line 13

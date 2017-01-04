@@ -1,0 +1,16 @@
+[05-Dec-2016 22:06:38 America/Chicago] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/DegradedUuid.php on line 26
+[05-Dec-2016 22:06:52 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/Uuid.php on line 38
+[05-Dec-2016 22:06:56 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/UuidFactory.php on line 25
+[08-Dec-2016 04:40:39 America/Chicago] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/DegradedUuid.php on line 26
+[08-Dec-2016 04:51:49 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/UuidFactory.php on line 25
+[08-Dec-2016 10:50:06 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/Uuid.php on line 38
+[08-Dec-2016 12:32:18 America/Chicago] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/DegradedUuid.php on line 26
+[08-Dec-2016 12:36:13 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/UuidFactory.php on line 25
+[08-Dec-2016 21:07:40 America/Chicago] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/DegradedUuid.php on line 26
+[08-Dec-2016 21:10:30 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/UuidFactory.php on line 25
+[08-Dec-2016 21:27:44 America/Chicago] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/DegradedUuid.php on line 26
+[08-Dec-2016 21:30:08 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/UuidFactory.php on line 25
+[08-Dec-2016 23:19:35 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/Uuid.php on line 38
+[09-Dec-2016 17:05:19 America/Chicago] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/DegradedUuid.php on line 26
+[09-Dec-2016 17:15:48 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/UuidFactory.php on line 25
+[09-Dec-2016 20:14:10 America/Chicago] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidInterface' not found in /home/mse24/public_html/projects/firmware/vendor/ramsey/uuid/src/Uuid.php on line 38

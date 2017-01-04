@@ -1,0 +1,5 @@
+[06-Dec-2016 23:14:46 America/Chicago] PHP Fatal error:  Class 'PhpParser\Lexer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 11
+[09-Dec-2016 20:51:06 America/Chicago] PHP Fatal error:  Class 'PhpParser\Lexer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 11
+[10-Dec-2016 04:54:40 America/Chicago] PHP Fatal error:  Class 'PhpParser\Lexer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 11
+[10-Dec-2016 10:59:32 America/Chicago] PHP Fatal error:  Class 'PhpParser\Lexer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 11
+[11-Dec-2016 02:11:21 America/Chicago] PHP Fatal error:  Class 'PhpParser\Lexer' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 11

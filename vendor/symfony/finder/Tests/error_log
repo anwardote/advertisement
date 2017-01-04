@@ -1,0 +1,10 @@
+[05-Dec-2016 21:57:45 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/FinderTest.php on line 17
+[05-Dec-2016 21:57:50 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/GlobTest.php on line 17
+[08-Dec-2016 04:51:38 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/FinderTest.php on line 17
+[08-Dec-2016 05:57:39 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/GlobTest.php on line 17
+[08-Dec-2016 12:35:49 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/FinderTest.php on line 17
+[08-Dec-2016 13:06:47 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/GlobTest.php on line 17
+[08-Dec-2016 21:10:19 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/FinderTest.php on line 17
+[08-Dec-2016 21:57:52 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/GlobTest.php on line 17
+[09-Dec-2016 17:15:14 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/FinderTest.php on line 17
+[09-Dec-2016 17:56:17 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/finder/Tests/GlobTest.php on line 17

@@ -1,0 +1,9 @@
+[06-Dec-2016 11:08:09 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[06-Dec-2016 11:08:20 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[09-Dec-2016 00:46:12 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[09-Dec-2016 02:33:19 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[09-Dec-2016 06:57:09 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[09-Dec-2016 10:19:06 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[09-Dec-2016 10:42:18 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[10-Dec-2016 02:44:54 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13
+[10-Dec-2016 03:14:30 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/mse24/public_html/projects/firmware/vendor/psr/log/Psr/Log/NullLogger.php on line 14

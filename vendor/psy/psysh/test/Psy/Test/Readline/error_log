@@ -1,0 +1,9 @@
+[07-Dec-2016 18:11:47 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php on line 17
+[07-Dec-2016 18:11:49 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php on line 17
+[07-Dec-2016 18:11:50 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 17
+[11-Dec-2016 06:02:19 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 17
+[11-Dec-2016 06:02:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php on line 17
+[11-Dec-2016 06:08:37 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php on line 17
+[12-Dec-2016 07:39:12 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 17
+[12-Dec-2016 07:40:00 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php on line 17
+[12-Dec-2016 07:44:24 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php on line 17

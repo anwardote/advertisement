@@ -1,0 +1,4 @@
+[06-Dec-2016 05:15:10 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/var-dumper/Tests/Test/VarDumperTestTraitTest.php on line 17
+[09-Dec-2016 02:06:50 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/var-dumper/Tests/Test/VarDumperTestTraitTest.php on line 17
+[09-Dec-2016 10:19:57 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/var-dumper/Tests/Test/VarDumperTestTraitTest.php on line 17
+[10-Dec-2016 02:47:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/var-dumper/Tests/Test/VarDumperTestTraitTest.php on line 17

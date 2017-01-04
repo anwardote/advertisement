@@ -1,0 +1,14 @@
+[05-Dec-2016 12:49:23 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/400.blade.php on line 52
+[05-Dec-2016 12:49:25 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/401.blade.php on line 52
+[05-Dec-2016 12:49:26 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/403.blade.php on line 52
+[05-Dec-2016 12:49:28 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/404.blade.php on line 52
+[05-Dec-2016 12:49:29 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/405.blade.php on line 52
+[05-Dec-2016 12:49:31 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/408.blade.php on line 52
+[05-Dec-2016 12:49:32 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/429.blade.php on line 52
+[07-Dec-2016 18:35:32 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/401.blade.php on line 52
+[07-Dec-2016 18:35:49 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/429.blade.php on line 52
+[07-Dec-2016 18:38:34 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/403.blade.php on line 52
+[07-Dec-2016 18:39:16 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/408.blade.php on line 52
+[07-Dec-2016 18:39:54 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/400.blade.php on line 52
+[07-Dec-2016 18:40:12 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/404.blade.php on line 52
+[07-Dec-2016 18:40:26 America/Chicago] PHP Fatal error:  Call to undefined function url() in /home/mse24/public_html/projects/firmware/resources/views/errors/405.blade.php on line 52

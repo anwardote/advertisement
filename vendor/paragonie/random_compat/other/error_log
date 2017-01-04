@@ -1,0 +1,20 @@
+[05-Dec-2016 22:00:57 America/Chicago] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/mse24/pub...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[08-Dec-2016 10:20:43 America/Chicago] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/mse24/pub...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[08-Dec-2016 23:03:12 America/Chicago] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/mse24/pub...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php on line 13
+[09-Dec-2016 19:59:52 America/Chicago] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "/home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly' in /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php:13
+Stack trace:
+#0 /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php(13): Phar->__construct('/home/mse24/pub...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/mse24/public_html/projects/firmware/vendor/paragonie/random_compat/other/build_phar.php on line 13

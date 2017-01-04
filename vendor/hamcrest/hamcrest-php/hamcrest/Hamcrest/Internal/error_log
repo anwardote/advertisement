@@ -1,0 +1,4 @@
+[06-Dec-2016 13:17:51 America/Chicago] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/mse24/public_html/projects/firmware/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Internal/SelfDescribingValue.php on line 14
+[09-Dec-2016 23:41:11 America/Chicago] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/mse24/public_html/projects/firmware/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Internal/SelfDescribingValue.php on line 14
+[10-Dec-2016 08:05:31 America/Chicago] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/mse24/public_html/projects/firmware/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Internal/SelfDescribingValue.php on line 14
+[11-Dec-2016 03:05:00 America/Chicago] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/mse24/public_html/projects/firmware/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Internal/SelfDescribingValue.php on line 14

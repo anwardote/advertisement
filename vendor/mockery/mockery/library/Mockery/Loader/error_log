@@ -1,0 +1,8 @@
+[06-Dec-2016 22:58:15 America/Chicago] PHP Fatal error:  Interface 'Mockery\Loader\Loader' not found in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 9
+[06-Dec-2016 22:58:21 America/Chicago] PHP Fatal error:  Interface 'Mockery\Loader\Loader' not found in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 9
+[09-Dec-2016 13:48:08 America/Chicago] PHP Fatal error:  Interface 'Mockery\Loader\Loader' not found in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 9
+[10-Dec-2016 00:01:03 America/Chicago] PHP Fatal error:  Interface 'Mockery\Loader\Loader' not found in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 9
+[10-Dec-2016 01:04:20 America/Chicago] PHP Fatal error:  Interface 'Mockery\Loader\Loader' not found in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 9
+[10-Dec-2016 18:52:20 America/Chicago] PHP Fatal error:  Interface 'Mockery\Loader\Loader' not found in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 9
+[10-Dec-2016 19:09:45 America/Chicago] PHP Fatal error:  Interface 'Mockery\Loader\Loader' not found in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 9
+[11-Dec-2016 03:38:23 America/Chicago] PHP Fatal error:  Interface 'Mockery\Loader\Loader' not found in /home/mse24/public_html/projects/firmware/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 9

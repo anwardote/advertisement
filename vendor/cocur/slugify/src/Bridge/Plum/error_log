@@ -1,0 +1,4 @@
+[09-Dec-2016 20:42:08 America/Chicago] PHP Fatal error:  Interface 'Plum\Plum\Converter\ConverterInterface' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/src/Bridge/Plum/SlugifyConverter.php on line 26
+[10-Dec-2016 04:50:54 America/Chicago] PHP Fatal error:  Interface 'Plum\Plum\Converter\ConverterInterface' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/src/Bridge/Plum/SlugifyConverter.php on line 26
+[10-Dec-2016 10:55:00 America/Chicago] PHP Fatal error:  Interface 'Plum\Plum\Converter\ConverterInterface' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/src/Bridge/Plum/SlugifyConverter.php on line 26
+[11-Dec-2016 02:09:01 America/Chicago] PHP Fatal error:  Interface 'Plum\Plum\Converter\ConverterInterface' not found in /home/mse24/public_html/projects/firmware/vendor/cocur/slugify/src/Bridge/Plum/SlugifyConverter.php on line 26

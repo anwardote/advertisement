@@ -1,0 +1,4 @@
+[06-Dec-2016 06:10:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/translation/Tests/DataCollector/TranslationDataCollectorTest.php on line 18
+[09-Dec-2016 07:51:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/translation/Tests/DataCollector/TranslationDataCollectorTest.php on line 18
+[09-Dec-2016 15:56:11 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/translation/Tests/DataCollector/TranslationDataCollectorTest.php on line 18
+[10-Dec-2016 13:24:03 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/translation/Tests/DataCollector/TranslationDataCollectorTest.php on line 18

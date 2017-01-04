@@ -1,0 +1,4 @@
+[05-Dec-2016 21:58:20 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/Session/Session.php on line 27
+[08-Dec-2016 09:55:57 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/Session/Session.php on line 27
+[08-Dec-2016 22:53:26 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/Session/Session.php on line 27
+[09-Dec-2016 19:46:41 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/http-foundation/Session/Session.php on line 27

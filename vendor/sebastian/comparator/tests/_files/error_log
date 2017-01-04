@@ -1,0 +1,4 @@
+[06-Dec-2016 11:09:43 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/comparator/tests/_files/TestClassComparator.php on line 13
+[09-Dec-2016 04:25:14 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/comparator/tests/_files/TestClassComparator.php on line 13
+[09-Dec-2016 14:42:59 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/comparator/tests/_files/TestClassComparator.php on line 13
+[10-Dec-2016 12:10:02 America/Chicago] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/mse24/public_html/projects/firmware/vendor/sebastian/comparator/tests/_files/TestClassComparator.php on line 13

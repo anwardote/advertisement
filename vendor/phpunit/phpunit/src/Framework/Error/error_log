@@ -1,0 +1,14 @@
+[07-Dec-2016 01:48:18 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 22
+[07-Dec-2016 01:48:20 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 22
+[07-Dec-2016 01:48:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 22
+[09-Dec-2016 23:27:48 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 22
+[10-Dec-2016 00:06:09 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 22
+[10-Dec-2016 06:32:19 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 22
+[10-Dec-2016 07:14:57 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 22
+[10-Dec-2016 08:19:45 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 22
+[10-Dec-2016 15:02:14 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 22
+[10-Dec-2016 16:45:41 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 22
+[10-Dec-2016 23:23:41 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 22
+[11-Dec-2016 03:00:38 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 22
+[11-Dec-2016 03:18:47 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 22
+[11-Dec-2016 19:59:07 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 22

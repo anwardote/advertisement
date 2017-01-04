@@ -1,0 +1,5 @@
+[07-Dec-2016 05:48:54 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/fzaninotto/faker/test/Faker/Provider/fr_BE/PaymentTest.php on line 9
+[10-Dec-2016 20:14:11 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/fzaninotto/faker/test/Faker/Provider/fr_BE/PaymentTest.php on line 9
+[11-Dec-2016 04:08:35 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/fzaninotto/faker/test/Faker/Provider/fr_BE/PaymentTest.php on line 9
+[11-Dec-2016 12:28:21 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/fzaninotto/faker/test/Faker/Provider/fr_BE/PaymentTest.php on line 9
+[12-Dec-2016 05:11:21 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/fzaninotto/faker/test/Faker/Provider/fr_BE/PaymentTest.php on line 9

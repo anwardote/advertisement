@@ -1,0 +1,11 @@
+[05-Dec-2016 12:21:18 America/Chicago] PHP Fatal error:  Class 'Symfony\Polyfill\Util\BinaryOnFuncOverload' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/Binary.php on line 15
+[05-Dec-2016 12:21:34 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestSuite' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/TestListener.php on line 17
+[07-Dec-2016 14:12:12 America/Chicago] PHP Fatal error:  Class 'Symfony\Polyfill\Util\BinaryOnFuncOverload' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/Binary.php on line 15
+[07-Dec-2016 15:06:18 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestSuite' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/TestListener.php on line 17
+[07-Dec-2016 21:26:18 America/Chicago] PHP Fatal error:  Class 'Symfony\Polyfill\Util\BinaryOnFuncOverload' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/Binary.php on line 15
+[07-Dec-2016 21:34:17 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestSuite' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/TestListener.php on line 17
+[08-Dec-2016 04:02:41 America/Chicago] PHP Fatal error:  Class 'Symfony\Polyfill\Util\BinaryOnFuncOverload' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/Binary.php on line 15
+[08-Dec-2016 04:14:42 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestSuite' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/TestListener.php on line 17
+[08-Dec-2016 06:11:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestSuite' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/TestListener.php on line 17
+[08-Dec-2016 12:26:33 America/Chicago] PHP Fatal error:  Class 'Symfony\Polyfill\Util\BinaryOnFuncOverload' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/Binary.php on line 15
+[08-Dec-2016 20:53:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestSuite' not found in /home/mse24/public_html/projects/firmware/vendor/symfony/polyfill-util/TestListener.php on line 17

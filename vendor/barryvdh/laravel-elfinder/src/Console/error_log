@@ -1,0 +1,4 @@
+[06-Dec-2016 05:12:58 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/barryvdh/laravel-elfinder/src/Console/PublishCommand.php on line 12
+[08-Dec-2016 11:08:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/barryvdh/laravel-elfinder/src/Console/PublishCommand.php on line 12
+[09-Dec-2016 07:32:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/barryvdh/laravel-elfinder/src/Console/PublishCommand.php on line 12
+[10-Dec-2016 04:10:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/barryvdh/laravel-elfinder/src/Console/PublishCommand.php on line 12

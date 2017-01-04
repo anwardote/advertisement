@@ -1,0 +1,4 @@
+[07-Dec-2016 17:14:01 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractSQLiteDriver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOSqlite/Driver.php on line 33
+[12-Dec-2016 14:26:59 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractSQLiteDriver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOSqlite/Driver.php on line 33
+[12-Dec-2016 23:07:22 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractSQLiteDriver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOSqlite/Driver.php on line 33
+[14-Dec-2016 20:11:32 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\AbstractSQLiteDriver' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOSqlite/Driver.php on line 33

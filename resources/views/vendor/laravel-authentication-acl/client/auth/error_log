@@ -1,0 +1,2 @@
+[09-Dec-2016 22:47:56 America/Chicago] PHP Fatal error:  Class 'Session' not found in /home/mse24/public_html/projects/firmware/resources/views/vendor/laravel-authentication-acl/client/auth/signup.blade.php on line 31
+[09-Dec-2016 23:49:07 America/Chicago] PHP Fatal error:  Class 'Session' not found in /home/mse24/public_html/projects/firmware/resources/views/vendor/laravel-authentication-acl/client/auth/login.blade.php on line 12

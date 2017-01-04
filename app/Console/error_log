@@ -1,0 +1,6 @@
+[05-Dec-2016 04:53:21 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Console/Kernel.php on line 9
+[06-Dec-2016 22:20:14 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Console/Kernel.php on line 9
+[07-Dec-2016 06:13:25 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Console/Kernel.php on line 9
+[07-Dec-2016 12:19:57 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Console/Kernel.php on line 9
+[07-Dec-2016 18:00:33 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Console/Kernel.php on line 9
+[12-Dec-2016 01:57:41 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mse24/public_html/projects/firmware/app/Console/Kernel.php on line 9

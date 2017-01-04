@@ -1,0 +1,5 @@
+[05-Dec-2016 21:48:42 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php on line 4
+[08-Dec-2016 06:35:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php on line 4
+[08-Dec-2016 13:15:02 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php on line 4
+[08-Dec-2016 22:09:27 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php on line 4
+[09-Dec-2016 18:07:00 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/mse24/public_html/projects/firmware/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php on line 4

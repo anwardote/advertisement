@@ -1,0 +1,6 @@
+[04-Dec-2016 18:24:40 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/mse24/public_html/projects/firmware/database/2014_10_12_000000_create_users_table.php on line 8
+[06-Dec-2016 15:07:41 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/mse24/public_html/projects/firmware/database/2014_10_12_000000_create_users_table.php on line 8
+[06-Dec-2016 22:13:38 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/mse24/public_html/projects/firmware/database/2014_10_12_000000_create_users_table.php on line 8
+[07-Dec-2016 06:12:59 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/mse24/public_html/projects/firmware/database/2014_10_12_000000_create_users_table.php on line 8
+[08-Dec-2016 02:50:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/mse24/public_html/projects/firmware/database/2014_10_12_000000_create_users_table.php on line 8
+[11-Dec-2016 15:56:28 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/mse24/public_html/projects/firmware/database/2014_10_12_000000_create_users_table.php on line 8

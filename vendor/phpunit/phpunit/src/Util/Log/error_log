@@ -1,0 +1,16 @@
+[07-Dec-2016 01:48:31 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 16
+[07-Dec-2016 01:48:33 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 18
+[07-Dec-2016 01:48:35 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 17
+[07-Dec-2016 01:48:36 America/Chicago] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 20
+[09-Dec-2016 23:38:38 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 17
+[09-Dec-2016 23:57:48 America/Chicago] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 20
+[10-Dec-2016 00:22:53 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 16
+[10-Dec-2016 00:32:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 18
+[10-Dec-2016 08:04:11 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 17
+[10-Dec-2016 08:13:13 America/Chicago] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 20
+[10-Dec-2016 08:28:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 16
+[10-Dec-2016 08:36:48 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 18
+[11-Dec-2016 03:03:27 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 17
+[11-Dec-2016 03:14:42 America/Chicago] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 20
+[11-Dec-2016 03:26:46 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 16
+[11-Dec-2016 03:33:37 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/mse24/public_html/projects/firmware/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 18

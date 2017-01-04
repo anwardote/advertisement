@@ -1,0 +1,4 @@
+[07-Dec-2016 04:54:51 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Connection' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php on line 84
+[10-Dec-2016 16:22:24 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Connection' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php on line 84
+[11-Dec-2016 01:00:46 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Connection' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php on line 84
+[11-Dec-2016 21:14:33 America/Chicago] PHP Fatal error:  Class 'Doctrine\DBAL\Connection' not found in /home/mse24/public_html/projects/firmware/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php on line 84

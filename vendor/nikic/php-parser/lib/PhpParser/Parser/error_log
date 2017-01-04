@@ -1,0 +1,5 @@
+[07-Dec-2016 01:40:37 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 8
+[10-Dec-2016 07:01:53 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 8
+[10-Dec-2016 14:54:16 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 8
+[10-Dec-2016 23:16:57 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 8
+[11-Dec-2016 19:48:19 America/Chicago] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/mse24/public_html/projects/firmware/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 8

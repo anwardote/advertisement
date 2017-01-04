@@ -1,0 +1,5 @@
+[06-Dec-2016 13:22:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Console/Commands/Inspire.php on line 8
+[09-Dec-2016 21:11:47 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Console/Commands/Inspire.php on line 8
+[10-Dec-2016 05:13:52 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Console/Commands/Inspire.php on line 8
+[10-Dec-2016 13:52:24 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Console/Commands/Inspire.php on line 8
+[11-Dec-2016 10:24:10 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/mse24/public_html/projects/firmware/vendor/jacopo/laravel-authentication-acl/app/Console/Commands/Inspire.php on line 8

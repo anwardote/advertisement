@@ -1,0 +1,7 @@
+[04-Dec-2016 18:23:58 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mse24/public_html/projects/firmware/app/User.php on line 9
+[06-Dec-2016 03:19:51 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mse24/public_html/projects/firmware/app/User.php on line 9
+[06-Dec-2016 09:03:17 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mse24/public_html/projects/firmware/app/User.php on line 9
+[06-Dec-2016 15:28:40 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mse24/public_html/projects/firmware/app/User.php on line 9
+[06-Dec-2016 21:27:26 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mse24/public_html/projects/firmware/app/User.php on line 9
+[07-Dec-2016 10:38:45 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mse24/public_html/projects/firmware/app/User.php on line 9
+[11-Dec-2016 15:55:29 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mse24/public_html/projects/firmware/app/User.php on line 9

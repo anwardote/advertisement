@@ -1,0 +1,4 @@
+[07-Dec-2016 05:58:14 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 8
+[10-Dec-2016 20:20:03 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 8
+[11-Dec-2016 12:30:06 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 8
+[11-Dec-2016 18:35:45 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/mse24/public_html/projects/firmware/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 8
